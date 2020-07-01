@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MarketAnalysis" />
+        <module name="HotItemsAnalysis" />
+        <module name="wordcount_flink" />
+        <module name="flink-sql-01" />
+        <module name="MaliciousLogin" />
+        <module name="wordcount_spark" />
+        <module name="OrderTimeoutMinitor" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="flink-sql-01" target="1.8" />
+      <module name="HotItemsAnalysis" target="1.8" />
+      <module name="MaliciousLogin" target="1.8" />
+      <module name="MarketAnalysis" target="1.8" />
+      <module name="OrderTimeoutMinitor" target="1.8" />
+      <module name="wordcount_flink" target="1.8" />
+      <module name="wordcount_spark" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

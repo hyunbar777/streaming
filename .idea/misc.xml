@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/flink-sql-01/pom.xml" />
+        <option value="$PROJECT_DIR$/HotItemsAnalysis/pom.xml" />
+        <option value="$PROJECT_DIR$/MaliciousLogin/pom.xml" />
+        <option value="$PROJECT_DIR$/MarketAnalysis/pom.xml" />
+        <option value="$PROJECT_DIR$/OrderTimeoutMinitor/pom.xml" />
+        <option value="$PROJECT_DIR$/wordcount_flink/pom.xml" />
+        <option value="$PROJECT_DIR$/wordcount_spark/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

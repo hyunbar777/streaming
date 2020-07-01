@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HotItemsAnalysis/HotItemsAnalysis.iml" filepath="$PROJECT_DIR$/HotItemsAnalysis/HotItemsAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaliciousLogin/MaliciousLogin.iml" filepath="$PROJECT_DIR$/MaliciousLogin/MaliciousLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MarketAnalysis/MarketAnalysis.iml" filepath="$PROJECT_DIR$/MarketAnalysis/MarketAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderTimeoutMinitor/OrderTimeoutMinitor.iml" filepath="$PROJECT_DIR$/OrderTimeoutMinitor/OrderTimeoutMinitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datastream.iml" filepath="$PROJECT_DIR$/datastream.iml" group="datastream" />
+      <module fileurl="file://$PROJECT_DIR$/flink-sql-01/flink-sql-01.iml" filepath="$PROJECT_DIR$/flink-sql-01/flink-sql-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wordcount_flink/wordcount_flink.iml" filepath="$PROJECT_DIR$/wordcount_flink/wordcount_flink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wordcount_spark/wordcount_spark.iml" filepath="$PROJECT_DIR$/wordcount_spark/wordcount_spark.iml" />
+    </modules>
+  </component>
+</project>
